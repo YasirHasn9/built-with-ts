@@ -1,0 +1,12 @@
+{
+  "name": "built-with-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YasirHasn9/built-with-ts.git",
+  "author": "Yasir <yhassan@oxefit.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
